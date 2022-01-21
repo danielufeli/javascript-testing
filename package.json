@@ -1,0 +1,22 @@
+{
+  "name": "javascript-testing",
+  "version": "1.0.0",
+  "description": "javascript-testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielufeli/javascript-testing.git"
+  },
+  "author": "Daniel Ufeli",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danielufeli/javascript-testing/issues"
+  },
+  "homepage": "https://github.com/danielufeli/javascript-testing#readme",
+  "devDependencies": {
+    "jest": "^27.4.7"
+  }
+}
